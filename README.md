@@ -33,9 +33,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaehyeon42&show_icons=true&theme=radical&hide_border=true" alt="Chaehyeon's GitHub Stats" />
+  <!-- 공식 서버가 터졌을 때를 대비한 미러 서버 주소로 우회 적용 -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=chaehyeon42&show_icons=true&theme=radical&hide_border=true" alt="Chaehyeon's GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-most-used-languages.vercel.app/api?username=chaehyeon42&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=chaehyeon42&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
 </p>
