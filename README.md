@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Chaehyeon! 👋
 
-<!--
-**chaehyeon42/chaehyeon42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ DevOps / Infra & Backend Engineer
+> 복잡한 인프라를 단순화하고, 선언적 GitOps 배포 자동화와 안정적인 클라우드 아키텍처를 설계하는 것에 열정을 가지고 있습니다.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stacks
+
+### ☁️ Infrastructure & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Terraform-7B121C?style=flat-square&logo=Terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+</p>
+
+### ☕ Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+</p>
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaehyeon42&show_icons=true&theme=radical&hide_border=true" alt="Chaehyeon's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-most-used-languages.vercel.app/api?username=chaehyeon42&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</p>
