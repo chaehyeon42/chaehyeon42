@@ -2,6 +2,8 @@
 
 ### 🛠️ DevOps / Infra & Backend Engineer
 > 복잡한 인프라를 단순화하고, 선언적 GitOps 배포 자동화와 안정적인 클라우드 아키텍처를 설계하는 것에 열정을 가지고 있습니다.
+### 🛠️ FullStack Engineer
+> 직관적이고 반응성 높은 웹/앱 UI부터 견고하고 확장 가능한 서버 아키텍처까지, 유기적으로 연결된 End-to-End 비즈니스 가치를 창출합니다.
 
 <br>
 
