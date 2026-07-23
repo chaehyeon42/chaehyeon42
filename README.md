@@ -32,10 +32,15 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <!-- 공식 서버가 터졌을 때를 대비한 미러 서버 주소로 우회 적용 -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=chaehyeon42&show_icons=true&theme=radical&hide_border=true" alt="Chaehyeon's GitHub Stats" />
+  <!-- 실시간 깃허브 활동 추이를 아름답게 보여주는 동적 꺾은선 그래프 위젯 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaehyeon42&theme=radical&hide_border=true" alt="Chaehyeon's Activity Graph" width="100%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=chaehyeon42&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+  <!-- 엑박 없이 가동되는 안정적인 프로필 요약 카드 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaehyeon42&theme=radical" alt="Chaehyeon's Profile Details" />
 </p>
+
