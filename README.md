@@ -32,8 +32,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <!-- 실시간 깃허브 활동 추이를 아름답게 보여주는 동적 꺾은선 그래프 위젯 -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaehyeon42&theme=radical&hide_border=true" alt="Chaehyeon's Activity Graph" width="100%" />
